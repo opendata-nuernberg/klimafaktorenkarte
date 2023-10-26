@@ -1,0 +1,4022 @@
+{
+  "res1": [
+    {
+      "index": "811fbffffffffff",
+      "temperature": 16.651464968152855,
+      "humidity": 84.29305732484072,
+      "info": "157 sensors with average temperature 16.65 and average humidity 84.29"
+    }
+  ],
+  "res2": [
+    {
+      "index": "821faffffffffff",
+      "temperature": 16.651464968152855,
+      "humidity": 84.29305732484072,
+      "info": "157 sensors with average temperature 16.65 and average humidity 84.29"
+    }
+  ],
+  "res3": [
+    {
+      "index": "831fabfffffffff",
+      "temperature": 16.651464968152855,
+      "humidity": 84.29305732484072,
+      "info": "157 sensors with average temperature 16.65 and average humidity 84.29"
+    }
+  ],
+  "res4": [
+    {
+      "index": "841fabbffffffff",
+      "temperature": 16.461908396946562,
+      "humidity": 84.83648854961825,
+      "info": "131 sensors with average temperature 16.46 and average humidity 84.84"
+    },
+    {
+      "index": "841fab1ffffffff",
+      "temperature": 17.41541666666667,
+      "humidity": 80.02624999999999,
+      "info": "24 sensors with average temperature 17.42 and average humidity 80.03"
+    },
+    {
+      "index": "841fab3ffffffff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    }
+  ],
+  "res5": [
+    {
+      "index": "851fababfffffff",
+      "temperature": 14.964615384615385,
+      "humidity": 83.03123076923073,
+      "info": "65 sensors with average temperature 14.96 and average humidity 83.03"
+    },
+    {
+      "index": "851fab17fffffff",
+      "temperature": 16.350714285714286,
+      "humidity": 87.30214285714285,
+      "info": "14 sensors with average temperature 16.35 and average humidity 87.30"
+    },
+    {
+      "index": "851faba3fffffff",
+      "temperature": 20.0,
+      "humidity": 84.56666666666666,
+      "info": "9 sensors with average temperature 20.00 and average humidity 84.57"
+    },
+    {
+      "index": "851fabbbfffffff",
+      "temperature": 17.854482758620694,
+      "humidity": 85.20586206896552,
+      "info": "58 sensors with average temperature 17.85 and average humidity 85.21"
+    },
+    {
+      "index": "851fabb3fffffff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "851fab07fffffff",
+      "temperature": 15.261999999999997,
+      "humidity": 84.242,
+      "info": "5 sensors with average temperature 15.26 and average humidity 84.24"
+    },
+    {
+      "index": "851fab33fffffff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "851fabaffffffff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    }
+  ],
+  "res6": [
+    {
+      "index": "861faba9fffffff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "861fabb97ffffff",
+      "temperature": 18.769999999999996,
+      "humidity": 85.63777777777779,
+      "info": "9 sensors with average temperature 18.77 and average humidity 85.64"
+    },
+    {
+      "index": "861fab167ffffff",
+      "temperature": 17.099999999999998,
+      "humidity": 80.64,
+      "info": "7 sensors with average temperature 17.10 and average humidity 80.64"
+    },
+    {
+      "index": "861fabb9fffffff",
+      "temperature": 18.127647058823527,
+      "humidity": 86.40058823529411,
+      "info": "17 sensors with average temperature 18.13 and average humidity 86.40"
+    },
+    {
+      "index": "861faba2fffffff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "861fabaafffffff",
+      "temperature": 21.448333333333334,
+      "humidity": 50.17666666666667,
+      "info": "6 sensors with average temperature 21.45 and average humidity 50.18"
+    },
+    {
+      "index": "861fabba7ffffff",
+      "temperature": 17.202380952380953,
+      "humidity": 87.33904761904763,
+      "info": "21 sensors with average temperature 17.20 and average humidity 87.34"
+    },
+    {
+      "index": "861fab14fffffff",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "861faba87ffffff",
+      "temperature": 16.323846153846155,
+      "humidity": 79.85769230769232,
+      "info": "13 sensors with average temperature 16.32 and average humidity 79.86"
+    },
+    {
+      "index": "861fabb87ffffff",
+      "temperature": 18.98142857142857,
+      "humidity": 74.78142857142856,
+      "info": "7 sensors with average temperature 18.98 and average humidity 74.78"
+    },
+    {
+      "index": "861faba1fffffff",
+      "temperature": 23.1775,
+      "humidity": 65.325,
+      "info": "4 sensors with average temperature 23.18 and average humidity 65.33"
+    },
+    {
+      "index": "861fabbafffffff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "861faba97ffffff",
+      "temperature": 20.935714285714283,
+      "humidity": 62.27571428571428,
+      "info": "7 sensors with average temperature 20.94 and average humidity 62.28"
+    },
+    {
+      "index": "861fabaa7ffffff",
+      "temperature": -3.7916666666666647,
+      "humidity": 92.78333333333335,
+      "info": "12 sensors with average temperature -3.79 and average humidity 92.78"
+    },
+    {
+      "index": "861fabab7ffffff",
+      "temperature": 19.409444444444446,
+      "humidity": 91.65166666666669,
+      "info": "18 sensors with average temperature 19.41 and average humidity 91.65"
+    },
+    {
+      "index": "861fabb17ffffff",
+      "temperature": 17.675,
+      "humidity": 92.025,
+      "info": "4 sensors with average temperature 17.68 and average humidity 92.03"
+    },
+    {
+      "index": "861fab15fffffff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "861fab147ffffff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "861fab16fffffff",
+      "temperature": 18.351666666666663,
+      "humidity": 94.90833333333332,
+      "info": "6 sensors with average temperature 18.35 and average humidity 94.91"
+    },
+    {
+      "index": "861fab047ffffff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "861fab327ffffff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "861fabad7ffffff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "861fab06fffffff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "861faba37ffffff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "861fabbb7ffffff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    }
+  ],
+  "res7": [
+    {
+      "index": "871faba9affffff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "871fabb92ffffff",
+      "temperature": 17.666666666666668,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 17.67 and average humidity 99.90"
+    },
+    {
+      "index": "871fab166ffffff",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "871fabb9bffffff",
+      "temperature": 19.558,
+      "humidity": 83.69999999999999,
+      "info": "5 sensors with average temperature 19.56 and average humidity 83.70"
+    },
+    {
+      "index": "871faba2dffffff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "871fabb9affffff",
+      "temperature": 18.13,
+      "humidity": 75.08500000000001,
+      "info": "6 sensors with average temperature 18.13 and average humidity 75.09"
+    },
+    {
+      "index": "871fabaaeffffff",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "871fabba4ffffff",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "871fabab2ffffff",
+      "temperature": 16.78,
+      "humidity": 86.57249999999999,
+      "info": "4 sensors with average temperature 16.78 and average humidity 86.57"
+    },
+    {
+      "index": "871fabaa8ffffff",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "871faba84ffffff",
+      "temperature": 15.23,
+      "humidity": 87.24999999999999,
+      "info": "7 sensors with average temperature 15.23 and average humidity 87.25"
+    },
+    {
+      "index": "871fabb95ffffff",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "871fabb9effffff",
+      "temperature": 16.8,
+      "humidity": 100.0,
+      "info": "4 sensors with average temperature 16.80 and average humidity 100.00"
+    },
+    {
+      "index": "871faba81ffffff",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "871fabaa6ffffff",
+      "temperature": 20.78333333333333,
+      "humidity": 92.33333333333333,
+      "info": "6 sensors with average temperature 20.78 and average humidity 92.33"
+    },
+    {
+      "index": "871fab164ffffff",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "871fabb80ffffff",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "871faba1dffffff",
+      "temperature": 23.1775,
+      "humidity": 65.325,
+      "info": "4 sensors with average temperature 23.18 and average humidity 65.33"
+    },
+    {
+      "index": "871fabbacffffff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "871faba92ffffff",
+      "temperature": 17.436666666666667,
+      "humidity": 75.96666666666665,
+      "info": "3 sensors with average temperature 17.44 and average humidity 75.97"
+    },
+    {
+      "index": "871fabaa0ffffff",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "871fabba6ffffff",
+      "temperature": 16.055,
+      "humidity": 83.965,
+      "info": "2 sensors with average temperature 16.05 and average humidity 83.97"
+    },
+    {
+      "index": "871fabab5ffffff",
+      "temperature": 24.613333333333333,
+      "humidity": 75.13333333333334,
+      "info": "6 sensors with average temperature 24.61 and average humidity 75.13"
+    },
+    {
+      "index": "871fabb12ffffff",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "871fabab0ffffff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "871fab15effffff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "871fabba3ffffff",
+      "temperature": 19.54,
+      "humidity": 65.2,
+      "info": "4 sensors with average temperature 19.54 and average humidity 65.20"
+    },
+    {
+      "index": "871fabba5ffffff",
+      "temperature": 18.616,
+      "humidity": 81.27799999999999,
+      "info": "5 sensors with average temperature 18.62 and average humidity 81.28"
+    },
+    {
+      "index": "871fabb91ffffff",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "871faba93ffffff",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "871fabaa4ffffff",
+      "temperature": -28.86666666666666,
+      "humidity": 95.66666666666667,
+      "info": "6 sensors with average temperature -28.87 and average humidity 95.67"
+    },
+    {
+      "index": "871fabb16ffffff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "871fab145ffffff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "871faba82ffffff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "871fab160ffffff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "871fabba1ffffff",
+      "temperature": 15.9,
+      "humidity": 99.89999999999999,
+      "info": "6 sensors with average temperature 15.90 and average humidity 99.90"
+    },
+    {
+      "index": "871fab16dffffff",
+      "temperature": 18.7,
+      "humidity": 99.9,
+      "info": "4 sensors with average temperature 18.70 and average humidity 99.90"
+    },
+    {
+      "index": "871fabab4ffffff",
+      "temperature": 16.08666666666667,
+      "humidity": 99.81,
+      "info": "3 sensors with average temperature 16.09 and average humidity 99.81"
+    },
+    {
+      "index": "871fabab3ffffff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "871fabab1ffffff",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "871fab16affffff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "871fab043ffffff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "871fab320ffffff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "871fabb82ffffff",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "871fabb96ffffff",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "871faba83ffffff",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "871fabba0ffffff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "871fabadeffffff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "871fab06dffffff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "871faba30ffffff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "871faba95ffffff",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "871fabbb1ffffff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    }
+  ],
+  "res8": [
+    {
+      "index": "881faba9a9fffff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "881fabb923fffff",
+      "temperature": 17.666666666666668,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 17.67 and average humidity 99.90"
+    },
+    {
+      "index": "881fab1669fffff",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "881fabb9b7fffff",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "881faba2d7fffff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "881fabb9adfffff",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "881fabaaebfffff",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "881fabba43fffff",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "881fabab25fffff",
+      "temperature": 16.78,
+      "humidity": 86.57249999999999,
+      "info": "4 sensors with average temperature 16.78 and average humidity 86.57"
+    },
+    {
+      "index": "881fabaa89fffff",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "881faba841fffff",
+      "temperature": 15.23,
+      "humidity": 87.24999999999999,
+      "info": "7 sensors with average temperature 15.23 and average humidity 87.25"
+    },
+    {
+      "index": "881fabb865fffff",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "881fabb9e5fffff",
+      "temperature": 16.8,
+      "humidity": 100.0,
+      "info": "4 sensors with average temperature 16.80 and average humidity 100.00"
+    },
+    {
+      "index": "881faba81bfffff",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "881fabb9b3fffff",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "881fab1645fffff",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "881fabb807fffff",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "881faba1d1fffff",
+      "temperature": 23.1775,
+      "humidity": 65.325,
+      "info": "4 sensors with average temperature 23.18 and average humidity 65.33"
+    },
+    {
+      "index": "881fabbaddfffff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "881faba905fffff",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "881fabaa0dfffff",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "881fabba69fffff",
+      "temperature": 16.055,
+      "humidity": 83.965,
+      "info": "2 sensors with average temperature 16.05 and average humidity 83.97"
+    },
+    {
+      "index": "881fabab55fffff",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "881fabbac9fffff",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "881fabab59fffff",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "881fabab03fffff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "881fab15e5fffff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "881fabba35fffff",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "881fabba51fffff",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "881fabb915fffff",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "881faba933fffff",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "881fabaa47fffff",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "881fabb161fffff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "881fab1453fffff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "881faba9c9fffff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "881fab160bfffff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "881fabaa43fffff",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "881fabba11fffff",
+      "temperature": 15.825,
+      "humidity": 99.9,
+      "info": "4 sensors with average temperature 15.82 and average humidity 99.90"
+    },
+    {
+      "index": "881fabb9e7fffff",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "881fabb9b1fffff",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "881fab16d3fffff",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "881fabab41fffff",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "881fabab3dfffff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "881fabab17fffff",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "881fabaa67fffff",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "881fab16a7fffff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "881fabba3bfffff",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "881fabaa65fffff",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "881fab04edfffff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "881fabab5dfffff",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "881fab16dbfffff",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "881fab3203fffff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "881fabb825fffff",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "881fabb961fffff",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "881faba83dfffff",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "881fabba03fffff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "881fabadedfffff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "881fabb9a9fffff",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "881fabba57fffff",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "881fab06d3fffff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "881faba30bfffff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "881fabba13fffff",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "881faba951fffff",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "881fabbb19fffff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "881faba921fffff",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "881fabba5bfffff",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res9": [
+    {
+      "index": "891faba9a93ffff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "891fabb922bffff",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "891fab16697ffff",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "891fabb9b77ffff",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "891faba2d73ffff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "891fabb9adbffff",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "891fabaaeb3ffff",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "891fabba423ffff",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "891fabab24fffff",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "891fabaa883ffff",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "891faba8417ffff",
+      "temperature": 15.23,
+      "humidity": 87.24999999999999,
+      "info": "7 sensors with average temperature 15.23 and average humidity 87.25"
+    },
+    {
+      "index": "891fabb864bffff",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "891fabb9e53ffff",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "891faba81abffff",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "891fabb9b27ffff",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "891fab1644fffff",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "891fabb807bffff",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "891faba1d0bffff",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "891fabbac37ffff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "891faba92b3ffff",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "891fabaa0c3ffff",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "891fabb9223ffff",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "891fabba687ffff",
+      "temperature": 16.055,
+      "humidity": 83.965,
+      "info": "2 sensors with average temperature 16.05 and average humidity 83.97"
+    },
+    {
+      "index": "891fabab55bffff",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "891fabb1267ffff",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "891fabab58bffff",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "891fabab023ffff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "891fab15e43ffff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "891fabba357ffff",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "891fabba513ffff",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "891fabb914fffff",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "891faba932bffff",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "891fabaa46bffff",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "891fabb168fffff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "891fab14537ffff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "891faba9c93ffff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "891fab160a3ffff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "891fabaa093ffff",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "891fabba117ffff",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "891fabb9e6fffff",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "891fabb9b03ffff",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "891fabab2cfffff",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "891fab16d37ffff",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "891fabab40bffff",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "891fabab3c7ffff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "891fabab177ffff",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "891fabaa673ffff",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "891fabb9e5bffff",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "891fab16a2bffff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "891fabba3bbffff",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "891fabaa65bffff",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "891fab04edbffff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "891fabab437ffff",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "891fab16da3ffff",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "891fab32033ffff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "891fabb825bffff",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "891fabba107ffff",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "891fabb9657ffff",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "891faba831bffff",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "891fabba03bffff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "891fabaded3ffff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "891fabb9a97ffff",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "891fabba57bffff",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "891fab06d3bffff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "891faba30b7ffff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "891fabba13bffff",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "891faba9503ffff",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "891faba1d0fffff",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "891fabbb183ffff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "891faba920bffff",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "891fabba5afffff",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res10": [
+    {
+      "index": "8a1faba9a917fff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "8a1fabb9239ffff",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fab16695ffff",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "8a1fabb9b70ffff",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "8a1faba2d70ffff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fabb9ad8ffff",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fabaaeb1ffff",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "8a1fabba4217fff",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabab24c7fff",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "8a1fabaa881ffff",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "8a1faba8414ffff",
+      "temperature": 15.23,
+      "humidity": 87.24999999999999,
+      "info": "7 sensors with average temperature 15.23 and average humidity 87.25"
+    },
+    {
+      "index": "8a1fabb86497fff",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabb9e537fff",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "8a1faba81a8ffff",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabb9b247fff",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fab1644effff",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "8a1fabb8078ffff",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "8a1faba1d09ffff",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "8a1fabbadd97fff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "8a1faba92b27fff",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "8a1fabaa0c07fff",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "8a1fabb92207fff",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabba686ffff",
+      "temperature": 16.1,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 16.10 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabab5597fff",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "8a1fabb1264ffff",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabab5887fff",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "8a1fabab02e7fff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fab15e407fff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabba3547fff",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "8a1fabba511ffff",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "8a1fabb9141ffff",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "8a1faba93297fff",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "8a1fabaa46affff",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fabb168dffff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "8a1fab145377fff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "8a1faba9c917fff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "8a1fab160a27fff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fabaa0927fff",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "8a1fabba1177fff",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabb9e6d7fff",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "8a1fabb9b007fff",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "8a1fabab252ffff",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fab16d267fff",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabab409ffff",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabab3d5ffff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabab176ffff",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fabaa672ffff",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "8a1fabb9e5affff",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fab16a297fff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "8a1fabba3baffff",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "8a1fabaa6587fff",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "8a1fab04336ffff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "8a1fabab436ffff",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "8a1fab16da37fff",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fab320337fff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabb82587fff",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "8a1fabba105ffff",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabb9656ffff",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "8a1faba831b7fff",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "8a1fabba03a7fff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabaded0ffff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "8a1fabb9a967fff",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "8a1fabba57affff",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "8a1fab06d397fff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "8a1faba30b57fff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "8a1fabba13affff",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "8a1faba95027fff",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "8a1faba1d0e7fff",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "8a1fabbb181ffff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "8a1fabba685ffff",
+      "temperature": 16.01,
+      "humidity": 68.03,
+      "info": "1 sensors with average temperature 16.01 and average humidity 68.03"
+    },
+    {
+      "index": "8a1faba920b7fff",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "8a1fabba5acffff",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res11": [
+    {
+      "index": "8b1faba9a910fff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "8b1fabb9239bfff",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fab166958fff",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "8b1fabb9b709fff",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "8b1faba2d70afff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fabb9ad8cfff",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fabaaeb1efff",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "8b1fabba4210fff",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabab24c1fff",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "8b1fabaa881efff",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "8b1faba8414efff",
+      "temperature": 15.754,
+      "humidity": 86.55,
+      "info": "5 sensors with average temperature 15.75 and average humidity 86.55"
+    },
+    {
+      "index": "8b1fabb86494fff",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabb9e535fff",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "8b1faba81a88fff",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabb9b240fff",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fab1644c5fff",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "8b1fabb8078cfff",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "8b1faba1d098fff",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "8b1fabbadd92fff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "8b1faba92b25fff",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "8b1faba8414dfff",
+      "temperature": 13.92,
+      "humidity": 89.0,
+      "info": "2 sensors with average temperature 13.92 and average humidity 89.00"
+    },
+    {
+      "index": "8b1fabaa0c03fff",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "8b1fabb92200fff",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabba6869fff",
+      "temperature": 16.1,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 16.10 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabab5594fff",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "8b1fabbac9a4fff",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabab5884fff",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "8b1fabab0219fff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fab15e41cfff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabba3543fff",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "8b1fabba511dfff",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "8b1fabb914f4fff",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "8b1faba93295fff",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "8b1fabaa46a8fff",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fabb168dbfff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "8b1fab145371fff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "8b1faba9c914fff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "8b1fab160a22fff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fabaa0925fff",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "8b1fabba1175fff",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabb9e6d3fff",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "8b1fabb9b006fff",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "8b1fabab2cdafff",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fab16d264fff",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabab409afff",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabab3d5bfff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabab176afff",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fabaa672cfff",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "8b1fabb9e5acfff",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fab16a293fff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "8b1fabba3ba8fff",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "8b1fabaa6584fff",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "8b1fab04336dfff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "8b1fabab4368fff",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "8b1fab16da31fff",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fab320331fff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabb82583fff",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "8b1fabba105efff",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabb9656dfff",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "8b1faba831b0fff",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "8b1fabba03a0fff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabaded08fff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "8b1fabb9a960fff",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "8b1fabba57a8fff",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "8b1fab06d395fff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "8b1faba30b42fff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "8b1fabba13acfff",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "8b1faba95152fff",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "8b1faba1d0c4fff",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "8b1fabbb1819fff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "8b1fabba6859fff",
+      "temperature": 16.01,
+      "humidity": 68.03,
+      "info": "1 sensors with average temperature 16.01 and average humidity 68.03"
+    },
+    {
+      "index": "8b1faba920b1fff",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "8b1fabba5acafff",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res12": [
+    {
+      "index": "8c1faba9a9105ff",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "8c1fabb9239b5ff",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fab166958bff",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "8c1fabb9b7091ff",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "8c1faba2d70a3ff",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fabb9ad8cbff",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fabaaeb1e5ff",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "8c1fabba4210dff",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabab24c17ff",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "8c1fabaa881e1ff",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "8c1faba8414ebff",
+      "temperature": 15.754,
+      "humidity": 86.55,
+      "info": "5 sensors with average temperature 15.75 and average humidity 86.55"
+    },
+    {
+      "index": "8c1fabb864943ff",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabb9e5353ff",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "8c1faba81a885ff",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabb9b2407ff",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fab1644c5bff",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "8c1fabb8078c7ff",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "8c1faba1d0985ff",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "8c1fabbadd927ff",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "8c1faba92b259ff",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "8c1faba8414d3ff",
+      "temperature": 13.92,
+      "humidity": 89.0,
+      "info": "2 sensors with average temperature 13.92 and average humidity 89.00"
+    },
+    {
+      "index": "8c1fabaa0c031ff",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "8c1fabb92200dff",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabba68699ff",
+      "temperature": 16.1,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 16.10 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabab55941ff",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "8c1fabbac9a49ff",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabab5884bff",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "8c1fabab02193ff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fab15e4035ff",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabba35431ff",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "8c1fabba511d3ff",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "8c1fabb9141b5ff",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "8c1faba932951ff",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "8c1fabaa46a8bff",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fabb168db1ff",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "8c1fab1453715ff",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "8c1faba9c9145ff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "8c1fab160a221ff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fabaa09251ff",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "8c1fabba11755ff",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabb9e6d33ff",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "8c1fabb9b006bff",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "8c1fabab2cda5ff",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fab16d264dff",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabab409a9ff",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabab3d5b1ff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabab176abff",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fabaa672c7ff",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "8c1fabb9e5ac9ff",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fab16a2935ff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "8c1fabba3ba89ff",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "8c1fabaa65845ff",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "8c1fab04336d9ff",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "8c1fabab43683ff",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "8c1fab16da311ff",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fab320333bff",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabb825831ff",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "8c1fabba105e1ff",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabb9656d5ff",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "8c1faba831b09ff",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "8c1fabba03a0bff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabaded087ff",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "8c1fabb9a9609ff",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "8c1fabba57a83ff",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "8c1fab06d395dff",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "8c1faba30b425ff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "8c1fabba13acbff",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "8c1faba951525ff",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "8c1faba1d0c49ff",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "8c1fabbb18191ff",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "8c1fabba6859bff",
+      "temperature": 16.01,
+      "humidity": 68.03,
+      "info": "1 sensors with average temperature 16.01 and average humidity 68.03"
+    },
+    {
+      "index": "8c1faba920b11ff",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "8c1fabba5aca1ff",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res13": [
+    {
+      "index": "8d1faba9a91057f",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "8d1fabb9239b5bf",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fab166958a7f",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "8d1fabb9b7090ff",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "8d1faba2d70a23f",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fabb9ad8cb3f",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fabaaeb1e57f",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "8d1fabba4210c3f",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabab24c16bf",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "8d1fabaa881e1bf",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "8d1faba8414eb3f",
+      "temperature": 15.754,
+      "humidity": 86.55,
+      "info": "5 sensors with average temperature 15.75 and average humidity 86.55"
+    },
+    {
+      "index": "8d1fabb8649407f",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabb9e5352bf",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "8d1faba81a884bf",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabb9b24073f",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fab1644c5b7f",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "8d1fabb8078c63f",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "8d1faba1d09853f",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "8d1fabbadd9277f",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "8d1faba92b258bf",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "8d1faba8414d37f",
+      "temperature": 13.92,
+      "humidity": 89.0,
+      "info": "2 sensors with average temperature 13.92 and average humidity 89.00"
+    },
+    {
+      "index": "8d1fabaa0c031bf",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "8d1fabb92200c3f",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabba68698ff",
+      "temperature": 16.1,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 16.10 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabab55940bf",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "8d1fabbac9a49bf",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabab5884a3f",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "8d1fabab02192ff",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fab15e4034bf",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabba354303f",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "8d1fabba511d2bf",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "8d1fabb914f4b3f",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "8d1faba9329517f",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "8d1fabaa46a8a7f",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fabb168dbc7f",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "8d1fab14537157f",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "8d1faba9c9144ff",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "8d1fab160a220ff",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fabaa092503f",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "8d1fabba117557f",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabb9e6d33bf",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "8d1fabb9b006bbf",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "8d1fabab2cda5bf",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fab16d264cff",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabab409a8bf",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabab3d5b0ff",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabab176aabf",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fabaa672c77f",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "8d1fabb9e5ac8ff",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fab16a2934ff",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "8d1fabba3ba893f",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "8d1fabaa658453f",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "8d1fab04336d9bf",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "8d1fabab43682ff",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "8d1fab16da3113f",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fab320333b7f",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabb8258317f",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "8d1fabba105e13f",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabb9656d57f",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "8d1faba831b08bf",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "8d1fabba03a0aff",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabaded0877f",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "8d1fabb9a96097f",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "8d1fabba57a82bf",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "8d1fab06d395c3f",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "8d1faba30b424ff",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "8d1fabba13aca3f",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "8d1faba9515243f",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "8d1faba1d0c49bf",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "8d1fabbb18191bf",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "8d1fabba6859aff",
+      "temperature": 16.01,
+      "humidity": 68.03,
+      "info": "1 sensors with average temperature 16.01 and average humidity 68.03"
+    },
+    {
+      "index": "8d1faba920b10bf",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "8d1fabba5aca03f",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res14": [
+    {
+      "index": "8e1faba9a91055f",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "8e1fabb9239b597",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fab166958a6f",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "8e1fabb9b7090ef",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "8e1faba2d70a31f",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fabb9ad8cb17",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fabaaeb1e547",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "8e1fabba4210c37",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabab24c1687",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "8e1fabaa881e1af",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "8e1faba8414eb0f",
+      "temperature": 15.754,
+      "humidity": 86.55,
+      "info": "5 sensors with average temperature 15.75 and average humidity 86.55"
+    },
+    {
+      "index": "8e1fabb8649404f",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabb9e535297",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "8e1faba81a884af",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabb9b24070f",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fab1644c5b57",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "8e1fabb8078c637",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "8e1faba1d098507",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "8e1fabbadd92747",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "8e1faba92b258a7",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "8e1faba8414d367",
+      "temperature": 13.92,
+      "humidity": 89.0,
+      "info": "2 sensors with average temperature 13.92 and average humidity 89.00"
+    },
+    {
+      "index": "8e1fabaa0c031a7",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "8e1fabb92200d57",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabba68698c7",
+      "temperature": 16.1,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 16.10 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabab55940af",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "8e1fabbac9a4997",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabab5884a27",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "8e1fabab02192cf",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fab15e40349f",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabba354301f",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "8e1fabba511d28f",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "8e1fabb9141b4d7",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "8e1faba93295167",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "8e1fabaa46a8a47",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fabb168dbc4f",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "8e1fab14537154f",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "8e1faba9c9144f7",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "8e1fab160a220d7",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fabaa092500f",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "8e1fabba1175567",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabb9e6d3387",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "8e1fabb9b006b17",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "8e1fabab252996f",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fab16d264cd7",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabab409a8af",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabab3d5b0cf",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabab176aa87",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fabaa672c747",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "8e1fabb9e5ac8d7",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fab16a29348f",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "8e1fabba3ba8827",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "8e1fabaa658451f",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "8e1fab04336d9af",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "8e1fabab43682df",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "8e1fab16da31027",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fab320333b47",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabb8258316f",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "8e1fabba105e10f",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabb9656d567",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "8e1faba831b08f7",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "8e1fabba03a0ad7",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabaded0876f",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "8e1fabb9a96095f",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "8e1fabba57a829f",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "8e1fab06d395c07",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "8e1faba30b424cf",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "8e1fabba13aca1f",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "8e1faba95152417",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "8e1faba1d0c4997",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "8e1fabbb18191af",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "8e1fabba6859acf",
+      "temperature": 16.01,
+      "humidity": 68.03,
+      "info": "1 sensors with average temperature 16.01 and average humidity 68.03"
+    },
+    {
+      "index": "8e1faba920b108f",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "8e1fabba5aca017",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ],
+  "res15": [
+    {
+      "index": "8f1faba9a91055e",
+      "temperature": 23.333333333333332,
+      "humidity": 98.43333333333334,
+      "info": "3 sensors with average temperature 23.33 and average humidity 98.43"
+    },
+    {
+      "index": "8f1fabb9239b591",
+      "temperature": 14.5,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 14.50 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fab166958a69",
+      "temperature": 18.900000000000002,
+      "humidity": 73.33333333333333,
+      "info": "3 sensors with average temperature 18.90 and average humidity 73.33"
+    },
+    {
+      "index": "8f1fabb9b7090e8",
+      "temperature": 19.093333333333334,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 19.09 and average humidity 100.00"
+    },
+    {
+      "index": "8f1faba2d70a31b",
+      "temperature": 17.13,
+      "humidity": 100.0,
+      "info": "3 sensors with average temperature 17.13 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fabb9ad8cb02",
+      "temperature": 17.855,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.86 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fabaaeb1e541",
+      "temperature": 28.85,
+      "humidity": 1.0,
+      "info": "2 sensors with average temperature 28.85 and average humidity 1.00"
+    },
+    {
+      "index": "8f1fabba4210c35",
+      "temperature": 14.649999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.65 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabab24c1686",
+      "temperature": 16.634999999999998,
+      "humidity": 73.145,
+      "info": "2 sensors with average temperature 16.63 and average humidity 73.14"
+    },
+    {
+      "index": "8f1fabaa881e1a9",
+      "temperature": 17.7475,
+      "humidity": 74.765,
+      "info": "4 sensors with average temperature 17.75 and average humidity 74.77"
+    },
+    {
+      "index": "8f1faba8414eb0b",
+      "temperature": 15.754,
+      "humidity": 86.55,
+      "info": "5 sensors with average temperature 15.75 and average humidity 86.55"
+    },
+    {
+      "index": "8f1fabb8649404d",
+      "temperature": 23.65,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 23.65 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabb9e535290",
+      "temperature": 16.32,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.32 and average humidity 100.00"
+    },
+    {
+      "index": "8f1faba81a884a9",
+      "temperature": 16.700000000000003,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.70 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabb9b24070e",
+      "temperature": 17.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.20 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fab1644c5b56",
+      "temperature": 17.12,
+      "humidity": 72.24,
+      "info": "2 sensors with average temperature 17.12 and average humidity 72.24"
+    },
+    {
+      "index": "8f1fabb8078c631",
+      "temperature": 17.113999999999997,
+      "humidity": 64.73400000000001,
+      "info": "5 sensors with average temperature 17.11 and average humidity 64.73"
+    },
+    {
+      "index": "8f1faba1d09850e",
+      "temperature": 26.549999999999997,
+      "humidity": 54.5,
+      "info": "2 sensors with average temperature 26.55 and average humidity 54.50"
+    },
+    {
+      "index": "8f1fabbadd92743",
+      "temperature": 18.15,
+      "humidity": 72.6,
+      "info": "2 sensors with average temperature 18.15 and average humidity 72.60"
+    },
+    {
+      "index": "8f1faba92b258a1",
+      "temperature": 19.37,
+      "humidity": 72.63499999999999,
+      "info": "2 sensors with average temperature 19.37 and average humidity 72.63"
+    },
+    {
+      "index": "8f1faba8414d363",
+      "temperature": 13.92,
+      "humidity": 89.0,
+      "info": "2 sensors with average temperature 13.92 and average humidity 89.00"
+    },
+    {
+      "index": "8f1fabaa0c031a1",
+      "temperature": 18.7,
+      "humidity": 92.6,
+      "info": "2 sensors with average temperature 18.70 and average humidity 92.60"
+    },
+    {
+      "index": "8f1fabb92200d52",
+      "temperature": 19.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.25 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabba68698c0",
+      "temperature": 16.1,
+      "humidity": 99.9,
+      "info": "1 sensors with average temperature 16.10 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabab55940aa",
+      "temperature": 24.55,
+      "humidity": 79.375,
+      "info": "4 sensors with average temperature 24.55 and average humidity 79.38"
+    },
+    {
+      "index": "8f1fabbac9a4995",
+      "temperature": 15.8,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.80 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabab5884a26",
+      "temperature": 24.740000000000002,
+      "humidity": 66.65,
+      "info": "2 sensors with average temperature 24.74 and average humidity 66.65"
+    },
+    {
+      "index": "8f1fabab02192ca",
+      "temperature": 16.266666666666666,
+      "humidity": 99.90000000000002,
+      "info": "3 sensors with average temperature 16.27 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fab15e40349a",
+      "temperature": 15.25,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.25 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabba354301a",
+      "temperature": 22.45,
+      "humidity": 56.2,
+      "info": "2 sensors with average temperature 22.45 and average humidity 56.20"
+    },
+    {
+      "index": "8f1fabba511d28c",
+      "temperature": 17.25,
+      "humidity": 67.93,
+      "info": "2 sensors with average temperature 17.25 and average humidity 67.93"
+    },
+    {
+      "index": "8f1fabb914f4b25",
+      "temperature": 19.75,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.75 and average humidity 99.90"
+    },
+    {
+      "index": "8f1faba93295165",
+      "temperature": 27.619999999999997,
+      "humidity": 42.765,
+      "info": "2 sensors with average temperature 27.62 and average humidity 42.77"
+    },
+    {
+      "index": "8f1fabaa46a8a41",
+      "temperature": -141.35,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature -141.35 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fabb168dbc4b",
+      "temperature": 19.55,
+      "humidity": 84.15,
+      "info": "2 sensors with average temperature 19.55 and average humidity 84.15"
+    },
+    {
+      "index": "8f1fab14537154a",
+      "temperature": 14.45,
+      "humidity": 94.1,
+      "info": "2 sensors with average temperature 14.45 and average humidity 94.10"
+    },
+    {
+      "index": "8f1faba9c9144f4",
+      "temperature": 15.850000000000001,
+      "humidity": 63.35,
+      "info": "2 sensors with average temperature 15.85 and average humidity 63.35"
+    },
+    {
+      "index": "8f1fab160a220d2",
+      "temperature": 14.379999999999999,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 14.38 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fabaa0925008",
+      "temperature": 27.375,
+      "humidity": 93.5,
+      "info": "4 sensors with average temperature 27.38 and average humidity 93.50"
+    },
+    {
+      "index": "8f1fabba1175565",
+      "temperature": 16.35,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.35 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabb9e6d3386",
+      "temperature": 17.75,
+      "humidity": 68.4,
+      "info": "2 sensors with average temperature 17.75 and average humidity 68.40"
+    },
+    {
+      "index": "8f1fabb9b006b12",
+      "temperature": 20.255000000000003,
+      "humidity": 59.25,
+      "info": "2 sensors with average temperature 20.26 and average humidity 59.25"
+    },
+    {
+      "index": "8f1fabab2cda593",
+      "temperature": 16.924999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 16.92 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fab16d264cd1",
+      "temperature": 17.55,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.55 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabab409a8a8",
+      "temperature": 16.2,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.20 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabab3d5b0cd",
+      "temperature": 20.1,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 20.10 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabab176aa81",
+      "temperature": 15.29,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 15.29 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fabaa672c74e",
+      "temperature": 15.75,
+      "humidity": 86.15,
+      "info": "2 sensors with average temperature 15.75 and average humidity 86.15"
+    },
+    {
+      "index": "8f1fabb9e5ac8d2",
+      "temperature": 17.28,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 17.28 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fab16a293489",
+      "temperature": 17.655,
+      "humidity": 84.925,
+      "info": "2 sensors with average temperature 17.66 and average humidity 84.92"
+    },
+    {
+      "index": "8f1fabba3ba8824",
+      "temperature": 16.630000000000003,
+      "humidity": 74.2,
+      "info": "2 sensors with average temperature 16.63 and average humidity 74.20"
+    },
+    {
+      "index": "8f1fabaa658451e",
+      "temperature": 29.4,
+      "humidity": 90.94999999999999,
+      "info": "2 sensors with average temperature 29.40 and average humidity 90.95"
+    },
+    {
+      "index": "8f1fab04336d9ab",
+      "temperature": 17.22,
+      "humidity": 69.39,
+      "info": "2 sensors with average temperature 17.22 and average humidity 69.39"
+    },
+    {
+      "index": "8f1fabab43682dc",
+      "temperature": 15.86,
+      "humidity": 99.63,
+      "info": "1 sensors with average temperature 15.86 and average humidity 99.63"
+    },
+    {
+      "index": "8f1fab16da31024",
+      "temperature": 19.85,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.85 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fab320333b45",
+      "temperature": 19.9,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 19.90 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabb8258316a",
+      "temperature": 14.565,
+      "humidity": 80.52000000000001,
+      "info": "2 sensors with average temperature 14.56 and average humidity 80.52"
+    },
+    {
+      "index": "8f1fabba105e108",
+      "temperature": 15.3,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 15.30 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabb9656d565",
+      "temperature": 23.65,
+      "humidity": 55.1,
+      "info": "2 sensors with average temperature 23.65 and average humidity 55.10"
+    },
+    {
+      "index": "8f1faba831b08f6",
+      "temperature": 20.25,
+      "humidity": 50.45,
+      "info": "2 sensors with average temperature 20.25 and average humidity 50.45"
+    },
+    {
+      "index": "8f1fabba03a0ad5",
+      "temperature": 16.6,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.60 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabaded0876a",
+      "temperature": 20.950000000000003,
+      "humidity": 61.2,
+      "info": "2 sensors with average temperature 20.95 and average humidity 61.20"
+    },
+    {
+      "index": "8f1fabb9a960958",
+      "temperature": 18.785,
+      "humidity": 56.855000000000004,
+      "info": "2 sensors with average temperature 18.79 and average humidity 56.86"
+    },
+    {
+      "index": "8f1fabba57a8299",
+      "temperature": 21.479999999999997,
+      "humidity": 100.0,
+      "info": "2 sensors with average temperature 21.48 and average humidity 100.00"
+    },
+    {
+      "index": "8f1fab06d395c03",
+      "temperature": 14.149999999999999,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 14.15 and average humidity 99.90"
+    },
+    {
+      "index": "8f1faba30b424c8",
+      "temperature": 17.95,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 17.95 and average humidity 99.90"
+    },
+    {
+      "index": "8f1fabba13aca1e",
+      "temperature": 16.05,
+      "humidity": 99.9,
+      "info": "2 sensors with average temperature 16.05 and average humidity 99.90"
+    },
+    {
+      "index": "8f1faba95152412",
+      "temperature": 19.5,
+      "humidity": 61.25,
+      "info": "2 sensors with average temperature 19.50 and average humidity 61.25"
+    },
+    {
+      "index": "8f1faba1d0c49b3",
+      "temperature": 19.805,
+      "humidity": 76.15,
+      "info": "2 sensors with average temperature 19.80 and average humidity 76.15"
+    },
+    {
+      "index": "8f1fabbb18191ac",
+      "temperature": 13.91,
+      "humidity": 99.95,
+      "info": "2 sensors with average temperature 13.91 and average humidity 99.95"
+    },
+    {
+      "index": "8f1fabba6859acd",
+      "temperature": 16.01,
+      "humidity": 68.03,
+      "info": "1 sensors with average temperature 16.01 and average humidity 68.03"
+    },
+    {
+      "index": "8f1faba920b108d",
+      "temperature": 13.57,
+      "humidity": 82.63,
+      "info": "1 sensors with average temperature 13.57 and average humidity 82.63"
+    },
+    {
+      "index": "8f1fabba5aca013",
+      "temperature": 15.62,
+      "humidity": 70.53,
+      "info": "1 sensors with average temperature 15.62 and average humidity 70.53"
+    }
+  ]
+}
