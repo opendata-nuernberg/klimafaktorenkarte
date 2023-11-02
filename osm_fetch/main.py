@@ -18,18 +18,19 @@ green_items = [
     "natural=heath",  # Is this green?
     "natural=fell",  # Is this green?
     "leisure=common",  # Is this green?
-    # "landuse=forest", # Incomplete polygon
-    # "leisure=garden", # Incomplete polygon
-    # "landuse=grass", # Incomplete polygon
-    # "natural=grassland", # Incomplete polygon
-    # "landuse=meadow", # Incomplete polygon
-    # "leisure=nature_reserve",  # Incomplete polygon
-    # "leisure=park",  # Incomplete polygon
-    # "landuse=recreation_ground",  # Incomplete polygon
-    # "natural=wood",  # Incomplete polygon
-    # "landuse=cemetery", # incomplete polygons
-    # "leisure=pitch",  # Is this green?  # Incomplete polygon
-    # "natural=scrub",  # Is this green?  # Incomplete polygon
+    # Incomplete with nwr:
+    "landuse=forest",  # Incomplete polygon
+    "leisure=garden",  # Incomplete polygon
+    "landuse=grass",  # Incomplete polygon
+    "natural=grassland",  # Incomplete polygon
+    "landuse=meadow",  # Incomplete polygon
+    "leisure=nature_reserve",  # Incomplete polygon
+    "leisure=park",  # Incomplete polygon
+    "landuse=recreation_ground",  # Incomplete polygon
+    "natural=wood",  # Incomplete polygon
+    "landuse=cemetery",  # incomplete polygons
+    "leisure=pitch",  # Is this green?  # Incomplete polygon
+    "natural=scrub",  # Is this green?  # Incomplete polygon
 ]
 
 water_items = ["natural=water", "waterway=river"]
@@ -66,7 +67,7 @@ out geom;
     )
 
 
-def gen_query(query_list: list[str], query_key: str = "nwr"):
+def gen_query(query_list: list[str], query_key: str = "way"):
     return "".join(
         [f"{query_key}[{query_item}](area.searchArea);" for query_item in query_list]
     )
@@ -86,4 +87,4 @@ def write_output_geojson(geo_json, filename):
 if __name__ == "__main__":
     # osm_json = read_json("osm_fetch/test_data/osm_test_data_1.json")
     write_output_geojson(osm_query(green_items), "osm_fetch/data_green.geojson")
-    # write_output_geojson(osm_query(water_items), "osm_fetch/data_water.geojson")
+    write_output_geojson(osm_query(water_items), "osm_fetch/data_water.geojson")
