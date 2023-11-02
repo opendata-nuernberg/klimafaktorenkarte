@@ -59,12 +59,7 @@ def read_json(filepath):
 
 
 def exec_query(area_id: int, query: str):
-    return api.get(
-        f"""area({area_id})->.searchArea;
-({query});
-out geom;
-"""
-    )
+    return api.get(f"area({area_id})->.searchArea;({query});out geom;")
 
 
 def gen_query(query_list: list[str], query_key: str = "way"):
