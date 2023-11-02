@@ -7,7 +7,7 @@ const long = 11.07940281406232;
 const map = L.map('map').setView([lat, long], currentZoomLevel);
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
-    minZoom: 10,
+    minZoom: 9,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     // check if zoom level changed
     // https://stackoverflow.com/questions/18770517/leaflet-js-get-current-zoom-level
@@ -23,10 +23,6 @@ map.on('zoomend',function(e){
     currentZoomLevel = updatedZoomLevel;
     updateMap();
 });
-
-
-
-
 
 fetch('./data.json')
     .then(response => response.json())
@@ -80,20 +76,12 @@ function updateMap() {
             hexagons = climaData.res11;
         }
 
-        // res15
-
-
-
         for (i in hexagons) {
-            //console.log(hexagons[i]);
             var hexagon = hexagons[i];
 
             const hexBoundary = h3.cellToBoundary(hexagon.index, true);
-            //console.log(hexBoundary);
             const hexPolygon = hexBoundary.map((boundary) => [boundary[1], boundary[0]]);
-            //console.log(hexPolygon);
 
-            
             // 10 grad minimum, 40 grad maximum
             let minTemp = 13;
             let maxTemp = 21;
@@ -125,10 +113,10 @@ function updateMap() {
                 //fillColor: 'rgb(217,68,43)', //rot
                 fillOpacity: 0.4,
             }).addTo(map);
-            hex.bindPopup(`Index: ${hexagon.index}<br>${hexagon.info}`);
-
-            //map.setView(hexPolygon[0], 13);
-                //.bindPopup(`Index: ${hexagon.index}<br>${hexagon.info}`);
+            hex.bindPopup(`H3 Index: ${hexagon.index}<br>` + 
+                `Number of sensors: ${hexagon.numberOfSensors}<br>` +
+                `Average temperature: ${hexagon.temperature.toFixed(2)}°C<br>` + 
+                `Average humidity: ${hexagon.humidity.toFixed(2)}%<br>`);
         }
 }
 
