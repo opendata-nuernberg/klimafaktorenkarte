@@ -1,8 +1,9 @@
-import overpass
 import json
+import requests
 from geopy.geocoders import Nominatim
+import osm2geojson
 
-api = overpass.API()
+OVERPASS_URL = "http://overpass-api.de/api/interpreter"
 DEFAULT_AREA = "Nuremberg"
 
 green_items = [
@@ -61,10 +62,14 @@ def read_json(filepath):
 
 
 def exec_query(area_id: int, query: str):
-    return api.get(f"area({area_id})->.searchArea;({query});out geom;")
+    request = f"[out:json];area({area_id})->.searchArea;({query});out geom;"
+    response = requests.get(OVERPASS_URL, params={"data": request})
+    response.raise_for_status()
+    data = response.json()
+    return osm2geojson.json2geojson(data)
 
 
-def gen_query(query_list: list[str], query_key: str = "way"):
+def gen_query(query_list: list[str], query_key: str = "nwr"):
     return "".join(
         [f"{query_key}[{query_item}](area.searchArea);" for query_item in query_list]
     )
@@ -82,6 +87,5 @@ def write_output_geojson(geo_json, filename):
 
 
 if __name__ == "__main__":
-    # osm_json = read_json("osm_fetch/test_data/osm_test_data_1.json")
     write_output_geojson(osm_query(green_items), "osm_fetch/data_green.geojson")
     write_output_geojson(osm_query(water_items), "osm_fetch/data_water.geojson")
