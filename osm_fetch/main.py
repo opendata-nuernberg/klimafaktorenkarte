@@ -6,31 +6,33 @@ api = overpass.API()
 DEFAULT_AREA = "Nuremberg"
 
 green_items = [
-    "tourism=camp_site",
-    "leisure=dog_park",
-    "landuse=greenfield",
-    "leisure=golf_course",
     "amenity=grave_yard",
+    "landuse=allotments",
+    "landuse=farmland",
     "landuse=orchard",
     "landuse=village_green",
     "landuse=vineyard",
+    "landuse=greenfield",
+    "landuse=forest",  # Incomplete polygon with nwr
+    "landuse=grass",  # Incomplete polygon with nwr
+    "landuse=meadow",  # Incomplete polygon with nwr
+    "landuse=cemetery",  # Incomplete polygon with nwr
+    "landuse=recreation_ground",  # Incomplete polygon with nwr
+    "leisure=dog_park",
+    "leisure=golf_course",
+    "leisure=common",  # Is this green?
+    "leisure=garden",  # Incomplete polygon with nwr
+    "leisure=nature_reserve",  # Incomplete polygon with nwr
+    "leisure=park",  # Incomplete polygon with nwr
+    "leisure=pitch",  # Is this green?  # Incomplete polygon with nwr
+    "leisure=playground",
     "natural=moor",
     "natural=heath",  # Is this green?
     "natural=fell",  # Is this green?
-    "leisure=common",  # Is this green?
-    # Incomplete with nwr:
-    "landuse=forest",  # Incomplete polygon
-    "leisure=garden",  # Incomplete polygon
-    "landuse=grass",  # Incomplete polygon
-    "natural=grassland",  # Incomplete polygon
-    "landuse=meadow",  # Incomplete polygon
-    "leisure=nature_reserve",  # Incomplete polygon
-    "leisure=park",  # Incomplete polygon
-    "landuse=recreation_ground",  # Incomplete polygon
-    "natural=wood",  # Incomplete polygon
-    "landuse=cemetery",  # incomplete polygons
-    "leisure=pitch",  # Is this green?  # Incomplete polygon
-    "natural=scrub",  # Is this green?  # Incomplete polygon
+    "natural=grassland",  # Incomplete polygon with nwr
+    "natural=wood",  # Incomplete polygon with nwr
+    "natural=scrub",  # Is this green?  # Incomplete polygon with nwr
+    "tourism=camp_site",
 ]
 
 water_items = ["natural=water", "waterway=river"]
