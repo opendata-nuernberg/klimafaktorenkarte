@@ -1,2 +1,6 @@
 .DS_Store
 tools/sensor_converter/pubspec.lock
+
+
+# Python
+*_venv
